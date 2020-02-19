@@ -8,9 +8,14 @@ See details in [Gatsby backend on Express and NGINX with reverse proxy](https://
 
 - Clone repository
 
+```
+git clone https://github.com/Rodrigoplp/minimal-gatsby-backend.git
+```
+
 - Install dependencies
 
 ```
+cd minimal-gatsby-backend
 npm install
 ```
 
